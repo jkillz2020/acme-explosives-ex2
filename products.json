@@ -6,5 +6,146 @@
             "name": "Fairy Sparklers",
             "description": "Multi-colored sparklers that are safe for any age."
         }
-    }]
+    },
+    {
+        "roman_candles": {
+            "id": 1,
+            "type": 0,
+            "name": "Nero Fire",
+            "description": "Shoots flaming balls."
+        }
+    },
+    {
+        "bottle_rockets": {
+            "id": 2,
+            "type": 0,
+            "name": "Whistlers",
+            "description": "Standard bottle rockets."
+        }
+    },
+    {
+        "large_boomers": {
+            "id": 3,
+            "type": 1,
+            "name": "Bubba Boomers",
+            "description": "Emits a large boom."
+        }
+    },
+    {
+        "large_sparklers": {
+            "id": 4,
+            "type": 1,
+            "name": "Orchid Fire",
+            "description": "Multi-colored explosions in the sky."
+        }
+    },
+    {
+        "large_rockets": {
+            "id": 5,
+            "type": 1,
+            "name": "Freedom Rockets",
+            "description": "Large rockets explode high in the air."
+        }
+    },
+    {
+        "huge_boomers": {
+            "id": 6,
+            "type": 2,
+            "name": "Liberty Bells",
+            "description": "Huge explosion will break windows."
+        }
+    },
+    {
+        "huge_fire": {
+            "id": 7,
+            "type": 2,
+            "name": "Supernova",
+            "description": "Huge colorful explosions with loud reports."
+        }
+    },
+    {
+        "huge_rockets": {
+            "id": 8,
+            "type": 2,
+            "name": "USS Patriot",
+            "description": "Huge rockets reach lower stratosphere."
+        }
+    },
+    {
+        "small dynamite": {
+            "id": 9,
+            "type": 3,
+            "name": "Small Dynamite",
+            "description": "Huge rockets reach lower stratosphere."
+        }
+    },
+    {
+        "small dynamite": {
+            "id": 10,
+            "type": 3,
+            "name": "Small Dynamite",
+            "description": "Huge rockets reach lower stratosphere."
+        }
+    },
+    {
+        "small dynamite": {
+            "id": 11,
+            "type": 3,
+            "name": "Small Dynamite",
+            "description": "Huge rockets reach lower stratosphere."
+        }
+    },
+    {
+        "small dynamite": {
+            "id": 12,
+            "type": 4,
+            "name": "Small Dynamite",
+            "description": "Huge rockets reach lower stratosphere."
+        }
+    },
+    {
+        "small dynamite": {
+            "id": 13,
+            "type": 4,
+            "name": "Small Dynamite",
+            "description": "Huge rockets reach lower stratosphere."
+        }
+    },
+    {
+        "small dynamite": {
+            "id": 14,
+            "type": 4,
+            "name": "Small Dynamite",
+            "description": "Huge rockets reach lower stratosphere."
+        }
+    },
+    {
+        "small dynamite": {
+            "id": 15,
+            "type": 5,
+            "name": "Small Dynamite",
+            "description": "Huge rockets reach lower stratosphere."
+        }
+    },
+    {
+        "small dynamite": {
+            "id": 16,
+            "type": 5,
+            "name": "Small Dynamite",
+            "description": "Huge rockets reach lower stratosphere."
+        }
+    },
+    {
+        "small dynamite": {
+            "id": 17,
+            "type": 5,
+            "name": "Small Dynamite",
+            "description": "Huge rockets reach lower stratosphere."
+        }
+    },
+  ]
 }
+
+// Create a JSON file describing each product you offer. 
+// Add a key/value pair that creates a relationship to the appropriate product type. 
+// Add at least 3 products for each type.

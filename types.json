@@ -5,6 +5,40 @@
             "category": 0,
             "name": "personal",
             "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "commercial",
+            "description": "Fireworks intended for commercial use during holiday celebrations"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "professional",
+            "description": "Fireworks intended for professional use during holiday celebrations"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "family",
+            "description": "Explosives intended for personal use in removing obstructions"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "industrial",
+            "description": "Explosives intended for commercial use in excavation"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "military",
+            "description": "Explosives intended for military operations only"
         }
     ]
 }
+
+// Create a JSON file describing types for each category of your products. 
+// For each type, add a key/value pair that creates a relationship to the corresponding category. 
+// Create at least 3 types for each category.
